@@ -1,0 +1,30 @@
+{
+  "name": "to-do-api",
+  "version": "1.0.0",
+  "description": "A simple API to create to-do lists",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetakandala/to-do-app.git"
+  },
+  "keywords": [
+    "api",
+    "to-do"
+  ],
+  "author": "Vineeta Kandala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineetakandala/to-do-app/issues"
+  },
+  "homepage": "https://github.com/vineetakandala/to-do-app#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

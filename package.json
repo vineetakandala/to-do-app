@@ -1,0 +1,27 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "A simple application to create to-do lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetakandala/to-do-app.git"
+  },
+  "keywords": [
+    "to-do",
+    "list",
+    "plan"
+  ],
+  "author": "Vineeta Kandala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineetakandala/to-do-app/issues"
+  },
+  "homepage": "https://github.com/vineetakandala/to-do-app#readme",
+  "dependencies": {
+    "mongodb": "^3.0.7"
+  }
+}
